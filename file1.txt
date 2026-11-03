@@ -2,3 +2,4 @@ good bye
 good luck
 SSH -> 보안, private key 필요
 HTTPS -> 공개
+C언어, 리눅스 언어, 회로이론 배워놓으면 좋다.
