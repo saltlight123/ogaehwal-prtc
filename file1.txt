@@ -1,2 +1,4 @@
 good bye
 good luck
+SSH -> 보안, private key 필요
+HTTPS -> 공개
